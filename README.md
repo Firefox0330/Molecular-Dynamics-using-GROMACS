@@ -1,2 +1,2 @@
 # Molecular-Dynamics-using-GROMACS
-Practice code for running biomolecular simulation in GROMACS
+Codes for running biomolecular simulation in GROMACS
